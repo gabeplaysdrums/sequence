@@ -58,6 +58,633 @@
     <AppxManifest Include="package.appxmanifest">
       <SubType>Designer</SubType>
     </AppxManifest>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\ace.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\ace.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\ext-beautify.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\ext-beautify.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\ext-chromevox.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\ext-chromevox.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\ext-elastic_tabstops_lite.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\ext-elastic_tabstops_lite.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\ext-emmet.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\ext-emmet.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\ext-error_marker.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\ext-error_marker.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\ext-keybinding_menu.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\ext-keybinding_menu.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\ext-language_tools.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\ext-language_tools.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\ext-linking.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\ext-linking.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\ext-modelist.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\ext-modelist.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\ext-old_ie.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\ext-old_ie.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\ext-searchbox.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\ext-searchbox.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\ext-settings_menu.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\ext-settings_menu.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\ext-spellcheck.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\ext-spellcheck.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\ext-split.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\ext-split.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\ext-static_highlight.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\ext-static_highlight.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\ext-statusbar.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\ext-statusbar.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\ext-textarea.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\ext-textarea.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\ext-themelist.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\ext-themelist.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\ext-whitespace.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\ext-whitespace.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\keybinding-emacs.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\keybinding-emacs.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\keybinding-vim.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\keybinding-vim.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-abap.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-abap.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-abc.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-abc.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-actionscript.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-actionscript.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-ada.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-ada.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-apache_conf.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-apache_conf.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-applescript.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-applescript.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-asciidoc.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-asciidoc.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-assembly_x86.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-assembly_x86.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-autohotkey.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-autohotkey.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-batchfile.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-batchfile.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-c9search.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-c9search.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-cirru.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-cirru.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-clojure.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-clojure.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-cobol.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-cobol.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-coffee.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-coffee.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-coldfusion.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-coldfusion.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-csharp.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-csharp.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-css.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-css.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-curly.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-curly.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-c_cpp.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-c_cpp.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-d.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-d.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-dart.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-dart.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-diff.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-diff.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-django.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-django.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-dockerfile.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-dockerfile.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-dot.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-dot.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-drools.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-drools.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-eiffel.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-eiffel.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-ejs.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-ejs.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-elixir.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-elixir.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-elm.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-elm.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-erlang.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-erlang.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-forth.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-forth.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-fortran.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-fortran.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-ftl.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-ftl.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-gcode.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-gcode.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-gherkin.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-gherkin.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-gitignore.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-gitignore.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-glsl.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-glsl.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-gobstones.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-gobstones.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-golang.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-golang.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-groovy.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-groovy.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-haml.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-haml.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-handlebars.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-handlebars.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-haskell.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-haskell.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-haskell_cabal.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-haskell_cabal.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-haxe.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-haxe.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-html.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-html.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-html_elixir.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-html_elixir.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-html_ruby.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-html_ruby.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-ini.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-ini.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-io.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-io.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-jack.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-jack.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-jade.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-jade.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-java.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-java.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-javascript.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-javascript.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-json.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-json.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-jsoniq.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-jsoniq.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-jsp.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-jsp.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-jsx.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-jsx.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-julia.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-julia.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-kotlin.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-kotlin.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-latex.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-latex.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-lean.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-lean.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-less.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-less.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-liquid.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-liquid.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-lisp.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-lisp.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-livescript.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-livescript.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-live_script.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-live_script.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-logiql.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-logiql.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-lsl.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-lsl.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-lua.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-lua.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-luapage.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-luapage.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-lucene.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-lucene.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-makefile.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-makefile.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-markdown.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-markdown.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-mask.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-mask.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-matlab.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-matlab.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-maze.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-maze.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-mel.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-mel.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-mipsassembler.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-mipsassembler.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-mips_assembler.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-mips_assembler.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-mushcode.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-mushcode.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-mysql.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-mysql.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-nix.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-nix.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-nsis.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-nsis.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-objectivec.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-objectivec.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-ocaml.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-ocaml.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-pascal.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-pascal.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-perl.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-perl.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-pgsql.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-pgsql.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-php.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-php.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-plain_text.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-plain_text.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-powershell.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-powershell.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-praat.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-praat.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-prolog.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-prolog.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-properties.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-properties.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-protobuf.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-protobuf.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-python.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-python.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-r.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-r.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-razor.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-razor.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-rdoc.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-rdoc.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-rhtml.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-rhtml.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-rst.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-rst.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-ruby.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-ruby.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-rust.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-rust.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-sass.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-sass.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-scad.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-scad.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-scala.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-scala.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-scheme.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-scheme.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-scss.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-scss.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-sh.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-sh.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-sjs.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-sjs.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-smarty.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-smarty.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-snippets.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-snippets.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-soy_template.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-soy_template.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-space.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-space.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-sql.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-sql.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-sqlserver.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-sqlserver.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-stylus.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-stylus.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-svg.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-svg.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-swift.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-swift.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-swig.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-swig.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-tcl.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-tcl.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-tex.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-tex.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-text.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-text.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-textile.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-textile.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-toml.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-toml.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-tsx.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-tsx.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-twig.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-twig.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-typescript.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-typescript.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-vala.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-vala.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-vbscript.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-vbscript.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-velocity.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-velocity.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-verilog.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-verilog.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-vhdl.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-vhdl.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-wollok.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-wollok.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-xml.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-xml.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-xquery.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-xquery.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\mode-yaml.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\mode-yaml.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\theme-ambiance.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\theme-ambiance.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\theme-chaos.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\theme-chaos.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\theme-chrome.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\theme-chrome.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\theme-clouds.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\theme-clouds.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\theme-clouds_midnight.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\theme-clouds_midnight.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\theme-cobalt.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\theme-cobalt.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\theme-crimson_editor.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\theme-crimson_editor.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\theme-dawn.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\theme-dawn.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\theme-dreamweaver.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\theme-dreamweaver.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\theme-eclipse.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\theme-eclipse.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\theme-github.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\theme-github.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\theme-idle_fingers.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\theme-idle_fingers.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\theme-iplastic.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\theme-iplastic.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\theme-katzenmilch.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\theme-katzenmilch.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\theme-kr_theme.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\theme-kr_theme.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\theme-kuroir.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\theme-kuroir.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\theme-merbivore.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\theme-merbivore.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\theme-merbivore_soft.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\theme-merbivore_soft.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\theme-monokai.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\theme-monokai.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\theme-mono_industrial.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\theme-mono_industrial.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\theme-pastel_on_dark.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\theme-pastel_on_dark.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\theme-solarized_dark.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\theme-solarized_dark.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\theme-solarized_light.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\theme-solarized_light.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\theme-sqlserver.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\theme-sqlserver.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\theme-terminal.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\theme-terminal.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\theme-textmate.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\theme-textmate.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\theme-tomorrow.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\theme-tomorrow.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\theme-tomorrow_night.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\theme-tomorrow_night.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\theme-tomorrow_night_blue.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\theme-tomorrow_night_blue.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\theme-tomorrow_night_bright.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\theme-tomorrow_night_bright.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\theme-tomorrow_night_eighties.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\theme-tomorrow_night_eighties.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\theme-twilight.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\theme-twilight.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\theme-vibrant_ink.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\theme-vibrant_ink.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\theme-xcode.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\theme-xcode.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\worker-coffee.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\worker-coffee.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\worker-css.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\worker-css.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\worker-html.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\worker-html.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\worker-javascript.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\worker-javascript.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\worker-json.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\worker-json.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\worker-lua.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\worker-lua.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\worker-php.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\worker-php.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\worker-xml.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\worker-xml.js</Link>
+    </Content>
+    <Content Include="..\bower_components\ace-builds\src-min-noconflict\worker-xquery.js">
+      <Link>bower_components\ace-builds\src-min-noconflict\worker-xquery.js</Link>
+    </Content>
+    <Content Include="..\bower_components\jquery\dist\jquery.min.js">
+      <Link>bower_components\jquery\dist\jquery.min.js</Link>
+    </Content>
+    <Content Include="..\bower_components\js-sequence-diagrams\build\sequence-diagram-min.js">
+      <Link>bower_components\js-sequence-diagrams\build\sequence-diagram-min.js</Link>
+    </Content>
+    <Content Include="..\bower_components\raphael\raphael-min.js">
+      <Link>bower_components\raphael\raphael-min.js</Link>
+    </Content>
+    <Content Include="..\bower_components\underscore\underscore-min.js">
+      <Link>bower_components\underscore\underscore-min.js</Link>
+    </Content>
     <Content Include="..\default.css">
       <Link>default.css</Link>
     </Content>
@@ -67,7 +694,18 @@
     <Content Include="..\default.js">
       <Link>default.js</Link>
     </Content>
-    <Content Include="index.html" />
+    <Content Include="bower_components\ace-builds\src-min-noconflict\dummy.txt" />
+    <Content Include="bower_components\jquery\dist\dummy.txt" />
+    <Content Include="bower_components\js-sequence-diagrams\build\dummy.txt" />
+    <Content Include="bower_components\raphael\dummy.txt" />
+    <Content Include="bower_components\underscore\dummy.txt" />
+    <Content Include="images\LockScreenLogo.scale-200.png" />
+    <Content Include="images\SplashScreen.scale-200.png" />
+    <Content Include="images\Square150x150Logo.scale-200.png" />
+    <Content Include="images\Square44x44Logo.scale-200.png" />
+    <Content Include="images\Square44x44Logo.targetsize-24_altform-unplated.png" />
+    <Content Include="images\StoreLogo.png" />
+    <Content Include="images\Wide310x150Logo.scale-200.png" />
     <None Include="SequenceDiagram_TemporaryKey.pfx" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\$(WMSJSProjectDirectory)\Microsoft.VisualStudio.$(WMSJSProject).targets" />
