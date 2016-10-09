@@ -1,0 +1,1 @@
+bower install bramp/js-sequence-diagrams jquery ace-builds
